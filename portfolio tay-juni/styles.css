@@ -1,0 +1,597 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital@1&display=swap");
+
+.soufian {
+  height: 100vh;
+}
+.texte11 {
+  margin: 20px;
+  margin-top: 3cm;
+  color: #172b4d;
+  font-size: 45px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+.home {
+  overflow: hidden;
+}
+.home-img {
+  margin-right: -30px;
+}
+h1 {
+  font-size: 90px;
+  color: #172b4d;
+  font-family: "Inter", sans-serif;
+  font-weight: 600 !important;
+}
+.aro1 {
+  display: none !important;
+}
+p {
+  color: #172b4d;
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400 !important;
+}
+.arz {
+  color: #ff6b00;
+}
+.essay-text {
+  padding-top: 0cm;
+}
+.ara {
+  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+}
+.aro1 {
+  display: none !important;
+}
+ul {
+  list-style-type: none;
+  padding: 0px !important;
+}
+.img-2 {
+  margin: auto;
+  width: 740px;
+  height: 85vh;
+}
+.essay-btn {
+  margin-top: 290px;
+}
+.fadi {
+  height: 36px;
+  width: 40px;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+.portfolio {
+  margin: auto;
+  width: 90%;
+}
+.aro {
+  margin-bottom: 48px;
+}
+.card-img {
+  box-shadow: 5px 9px 7px rgba(58, 58, 58, 0.179);
+}
+.card-img-top {
+  height: 230px !important;
+}
+.services {
+  margin: auto;
+  width: 89%;
+}
+.bord .btn {
+  background-color: #ebf0ee;
+}
+.bord .btn a {
+  color: #ff6b00;
+}
+.btn-1 {
+  border: none;
+  border-radius: 7px;
+  background-color: #36b37e;
+}
+.btn-1:hover {
+  background-color: #c5e9da;
+}
+.btn-1:active {
+  background-color: #28855d;
+}
+.btn-2 {
+  border: none;
+  border-radius: 7px;
+  background-color: #ff6b00;
+}
+.btn-2:hover {
+  background-color: #fe984e;
+}
+.btn-2:active {
+  background-color: #e30039 !important;
+}
+.btn-3 {
+  border: 2px solid black;
+  border-bottom-left-radius: 24px;
+  border-top-right-radius: 24px;
+  background-color: #ff6b00;
+}
+.btn-3:hover {
+  box-shadow: none !important;
+  background-color: #fe984e !important;
+}
+.btn-3:active {
+  box-shadow: none !important;
+  background-color: #e35f00 !important;
+}
+.essay-icon {
+  margin-top: 90px;
+}
+.essay-pa {
+  margin-bottom: 40px !important;
+  padding: 0px 25px;
+  font-size: 20px !important;
+  color: #172b4d;
+}
+.boutton {
+  display: none !important;
+}
+.rest {
+  padding-bottom: 20px;
+}
+.Skills-a {
+  margin-bottom: 32px;
+}
+.services-item {
+  background-color: #ebf0ee;
+}
+.services-item .btn {
+  background-color: #ffff;
+}
+.services-item .btn a {
+  color: #ff6b00;
+}
+.services-item .btn-I {
+  margin: 10px;
+  padding: 6px 4px;
+  background-color: #ffff;
+}
+.services-item .btn-I a {
+  font-size: 12px;
+}
+.services-item .btn-5 a {
+  font-size: 13px;
+}
+.input-a {
+  display: none !important;
+}
+.textet {
+  margin-top: 10px;
+}
+.card {
+  height: 590px !important;
+}
+.Langua .list {
+  margin-bottom: 72px !important;
+  padding: 20px 0px !important;
+}
+.test {
+  display: none;
+  margin: auto;
+  width: 5rem;
+  height: 9px;
+  border-radius: 35px;
+  background-color: black;
+}
+.contact {
+  padding: 50px 0px;
+}
+.aro {
+  margin-bottom: 48px;
+  font-family: "Inter", sans-serif;
+}
+.m-37 {
+  display: none;
+}
+input {
+  box-shadow: none !important;
+  border: #ff6b00 solid;
+}
+input:hover {
+  border: #e35f00 solid !important;
+}
+input:active {
+  border: #e35f00 solid !important;
+}
+textarea {
+  box-shadow: none !important;
+}
+textarea:hover {
+  box-shadow: none !important;
+  border: #e35f00 solid !important;
+}
+textarea:active {
+  box-shadow: none !important;
+  border: #b11515 solid !important;
+  background-repeat: repeat-y;
+}
+@media screen and (max-width: 375px) {
+  body {
+    max-width: 375px;
+    margin: auto;
+  }
+  .soufian {
+    height: 100vh !important;
+    padding-bottom: 30px !important;
+  }
+  .img-2 {
+    margin: auto;
+    width: 340px;
+    height: 45vh;
+  }
+  .essay-btn {
+    display: none;
+  }
+  .essay-text {
+    padding-top: 0cm;
+  }
+  .arz {
+    font-size: 40px !important;
+  }
+  .essay-icon {
+    margin-top: 3px;
+  }
+  .btn {
+    font-size: 15px !important;
+  }
+  .portfolio {
+    margin: auto;
+    width: 100%;
+  }
+  .card {
+    height: auto !important;
+  }
+  .services {
+    margin: auto;
+    width: 100%;
+  }
+  .boutton {
+    display: inline !important;
+  }
+  .tryail ul li {
+    margin: 4px !important;
+    font-size: 13px !important;
+  }
+  .btn-5 {
+    padding: 6px 5px !important;
+  }
+  .buut {
+    text-align: center !important;
+  }
+  .input {
+    display: none !important;
+  }
+  .input-a {
+    display: block !important;
+  }
+  .test {
+    display: block;
+  }
+  .aro {
+    margin-bottom: 17px !important;
+  }
+  .card {
+    border-left: none !important;
+    border-right: none !important;
+  }
+  .bord {
+    border: none !important;
+  }
+  .ara {
+    display: none !important;
+  }
+  .aro1 {
+    margin-top: 40px !important;
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .bbbbbb {
+    margin: 0px 70px !important;
+    font-size: 42px !important;
+  }
+  .contact {
+    padding: 20px 0px;
+  }
+  .m-14 {
+    display: none;
+  }
+  .m-37 {
+    display: block;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 425px) {
+  .soufian {
+    height: auto !important;
+    padding-bottom: 30px !important;
+  }
+  .img-2 {
+    margin: auto;
+    width: 340px;
+    height: 45vh;
+  }
+  .essay-btn {
+    display: none;
+  }
+  .essay-text {
+    padding-top: 0cm;
+  }
+  .arz {
+    font-size: 40px !important;
+  }
+  .essay-icon {
+    margin-top: 3px;
+  }
+  .btn {
+    font-size: 15px !important;
+  }
+  .portfolio {
+    margin: auto;
+    width: 100%;
+  }
+  .card {
+    height: 43vh !important;
+  }
+  .services {
+    margin: auto;
+    width: 100%;
+  }
+  .boutton {
+    display: inline !important;
+  }
+  .tryail ul li {
+    margin: 4px !important;
+    font-size: 13px !important;
+  }
+  .btn-5 {
+    padding: 6px 5px !important;
+  }
+  .buut {
+    text-align: center !important;
+  }
+  .input {
+    display: none !important;
+  }
+  .input-a {
+    display: block !important;
+  }
+  .test {
+    display: block;
+  }
+  .aro {
+    margin-bottom: 17px !important;
+  }
+  .card {
+    border-left: none !important;
+    border-right: none !important;
+  }
+  .bord {
+    border: none !important;
+  }
+  .ara {
+    display: none !important;
+  }
+  .aro1 {
+    margin-top: 40px !important;
+    display: flex !important;
+    justify-content: center;
+  }
+  .bbbbbb {
+    margin: 0px 70px !important;
+    font-size: 42px !important;
+  }
+  .contact {
+    padding: 20px 0px;
+  }
+  .m-14 {
+    display: none;
+  }
+  .m-37 {
+    display: block;
+  }
+}
+@media screen and (min-width: 427px) and (max-width: 768px) {
+  .soufian {
+    height: 55vh !important;
+  }
+  .img-2 {
+    margin: auto;
+    width: 340px;
+    height: 50vh;
+  }
+  .card {
+    height: 47vh !important;
+  }
+  .ara {
+    font-size: 12px !important;
+    margin-top: 10px !important;
+  }
+  .essay-btn {
+    font-size: 13px !important;
+    margin-top: 30px !important;
+  }
+  .essay-btn .btn-3 {
+    font-size: 19px !important;
+  }
+  .essay-text {
+    padding-top: 0cm;
+  }
+  .fw-bold {
+    font-size: 30px !important;
+  }
+  .ttttt {
+    font-size: 15px !important;
+  }
+  .buut {
+    text-align: center !important;
+  }
+  .tryail {
+    height: 40vh !important;
+  }
+  .bord ul li {
+    margin-bottom: 10px;
+  }
+
+  .input {
+    display: none !important;
+  }
+  .input-a {
+    display: block !important;
+  }
+  .m-14 {
+    display: none;
+  }
+  .m-37 {
+    display: block;
+  }
+  .card {
+    border-left: none !important;
+    border-right: none !important;
+  }
+  .bord {
+    border: none !important;
+  }
+  .services-item {
+    height: 34vh !important;
+  }
+  .Langua ul {
+    padding: 20px 0px !important;
+  }
+  .Langua .list {
+    margin-bottom: 0px !important;
+  }
+  .list .btn {
+    margin-bottom: 10px !important;
+  }
+  .Skills-a .btn {
+    padding: 6px 4px !important ;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .essay-text {
+    padding-top: 2cm !important;
+  }
+  .img-2 {
+    margin: auto;
+    width: 540px;
+    height: 85vh;
+  }
+  .bord ul li {
+    margin-bottom: 10px;
+  }
+  .essay-btn {
+    margin-top: 158px !important ;
+  }
+  .portfolio {
+    width: 100% !important;
+  }
+  .textet {
+    font-size: 30px !important;
+    margin-top: 5px !important;
+  }
+  .card {
+    height: auto !important;
+  }
+  .Framewo {
+    height: 99%;
+  }
+  .Framewo ul {
+    padding-top: 0px !important;
+  }
+  .services {
+    width: 100% !important;
+  }
+  .Skills1 {
+    height: 350px;
+  }
+  .Skills ul {
+    padding: 0;
+  }
+  .Skills .rest {
+    padding-bottom: 0px !important;
+  }
+  .Skills-a {
+    margin-bottom: 2px !important;
+    font-size: 29px !important;
+  }
+  /* .Skills >ul >li >.btn-5{
+        padding: 6px 4px !important;
+    } */
+  .Skills ul li a {
+    font-size: 8px !important;
+    padding-top: 0px !important;
+  }
+  .card {
+    height: 48vh !important;
+  }
+  .tryail ul li {
+    margin: 4px !important;
+    font-size: 11px !important;
+  }
+}
+@media screen and (min-width: 1026px) and (max-width: 1439px) {
+  .soufian {
+    height: auto !important;
+  }
+  .essay-text {
+    padding-top: 2cm !important;
+  }
+  .img-2 {
+    margin: auto;
+    width: 440px;
+    height: 55vh;
+  }
+  .bord ul li {
+    margin-bottom: 10px;
+  }
+  .essay-btn {
+    margin-top: 60px !important ;
+  }
+  .textet {
+    font-size: 30px !important;
+    margin-top: 5px !important;
+  }
+  .card {
+    height: auto !important;
+  }
+  .Framewo {
+    height: 99%;
+  }
+  .Framewo ul {
+    padding-top: 0px !important;
+  }
+  .Skills1 {
+    height: 350px;
+  }
+  .Skills ul {
+    padding: 0;
+  }
+  .Skills .rest {
+    padding-bottom: 0px !important;
+  }
+  .Skills-a {
+    margin-bottom: 2px !important;
+    font-size: 2px !important;
+  }
+  /* .Skills >ul >li >.btn-5{
+        padding: 6px 4px !important;
+    } */
+  .Skills ul li a {
+    font-size: 8px !important;
+    padding-top: 0px !important;
+  }
+  .card {
+    height: 40vh !important;
+  }
+}
